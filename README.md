@@ -1,4 +1,4 @@
-### Yo! Sou Aldenir Dos Santos, Dev Front-End.
+### Aldenir Dos Santos, Dev Front-End Jr.
 <div align="center">
   <a href="https://github.com/AldenirTakeshi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AldenirTakeshi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
