@@ -65,10 +65,10 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. At
 ## 📫 Como me encontrar
 
 <div align="center">
-  <a href="https://www.instagram.com/takeshi.js/" target="_blank" rel="noopener noreferrer" >
+  <a href="https://www.instagram.com/takeshitos_/" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/aldenir-dos-santos-5b493913b/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/aldenir-dos-santos-060a51300/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:aldenirtakeshi@gmail.com">
