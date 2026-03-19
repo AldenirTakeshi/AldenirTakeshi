@@ -1,85 +1,67 @@
 # 👋 Olá, eu sou o Aldenir Takeshi!
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Java+%7C+JavaScript+%7C+React;Apaixonado+por+tecnologia" alt="Typing SVG" />
-</div>
+</p>
 
-## 🚀 Sobre Mim
+### 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Atualmente focado em desenvolvimento Full Stack, trabalhando com JavaScript, React, Node, Nest e MongoDB. Sempre em busca de novos desafios e aprendizado contínuo.
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Linguagens de Programação
-
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-</div>
-
-### Frontend
-
-<div style="display: inline_block">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-</div>
-
-### Backend & Banco de Dados
-
-<div style="display: inline_block">
-  <img align="center" alt="Spring Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="NestJS" height="40" width="50" src="https://nestjs.com/img/logo-small.svg">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-</div>
-
-### Ferramentas & Outros
-
-<div style="display: inline_block">
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-</div>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/AldenirTakeshi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AldenirTakeshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldenirTakeshi&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AldenirTakeshi&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 📈 Atividade Recente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AldenirTakeshi&theme=radical" alt="GitHub Activity Graph" />
-</div>
-
-## 📫 Como me encontrar
-
-<div align="center">
-  <a href="https://www.instagram.com/takeshitos_/" target="_blank" rel="noopener noreferrer" >
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/aldenir-dos-santos-060a51300/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:aldenirtakeshi@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+Sou um desenvolvedor focado em criar soluções eficientes no ecossistema **Full Stack**. Atualmente, exploro o poder do **JavaScript/TypeScript** com **NestJS** e **React**, sem deixar de lado a robustez do **Java**.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AldenirTakeshi&style=flat-square&color=blue" alt="Profile Views" />
-  
-  ⭐ Se este perfil te ajudou, considere dar uma estrela! ⭐
-</div>
+### 🛠️ Tecnologias & Ferramentas
+
+| Categoria | Stack |
+| :--- | :--- |
+| **Linguagens** | `Java` `JavaScript` `TypeScript` |
+| **Frontend** | `React` `HTML5` `CSS3` |
+| **Backend** | `Node.js` `NestJS` `Spring Boot` |
+| **Database** | `MongoDB` `PostgreSQL` |
+| **DevOps** | `Git` `Docker` |
+
+<br/>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" title="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" title="Node.js" />
+  <img src="https://nestjs.com/img/logo-small.svg" width="35" title="NestJS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="35" title="Spring" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35" title="MongoDB" />
+</p>
+
+---
+
+### 📊 Estatísticas & Atividade
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AldenirTakeshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldenirTakeshi&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AldenirTakeshi&theme=radical" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aldenir-dos-santos-060a51300/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/takeshitos_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:aldenirtakeshi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AldenirTakeshi&style=flat-square&color=blue" alt="Views" />
+</p>
