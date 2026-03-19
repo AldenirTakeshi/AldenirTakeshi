@@ -6,36 +6,24 @@
 
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor focado em criar soluções eficientes no ecossistema **Full Stack**. Atualmente, exploro o poder do **JavaScript/TypeScript** com **NestJS** e **React**, sem deixar de lado a robustez do **Java**.
+Sou um desenvolvedor focado em criar soluções eficientes no ecossistema **Full Stack**. Atualmente, exploro o poder do **JavaScript/TypeScript** com **NestJS** e **React**, mantendo a base sólida em **Java**.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ My Stack
 
-| Categoria | Stack |
-| :--- | :--- |
-| **Linguagens** | `Java` `JavaScript` `TypeScript` |
-| **Frontend** | `React` `HTML5` `CSS3` |
-| **Backend** | `Node.js` `NestJS` `Spring Boot` |
-| **Database** | `MongoDB` `PostgreSQL` |
-| **DevOps** | `Git` `Docker` |
+**Languages & Core**  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-<br/>
+**Frontend & Mobile**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" title="Node.js" />
-  <img src="https://nestjs.com/img/logo-small.svg" width="35" title="NestJS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="35" title="Spring" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35" title="MongoDB" />
-</p>
+**Backend & Database**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ---
 
-### 📊 Estatísticas & Atividade
+### 📊 Estatísticas
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AldenirTakeshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -48,20 +36,14 @@ Sou um desenvolvedor focado em criar soluções eficientes no ecossistema **Full
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aldenir-dos-santos-060a51300/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/takeshitos_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:aldenirtakeshi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/aldenir-dos-santos-060a51300/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/takeshitos_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:aldenirtakeshi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AldenirTakeshi&style=flat-square&color=blue" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=AldenirTakeshi&style=flat-square&color=4F8CC9" alt="Views" />
 </p>
