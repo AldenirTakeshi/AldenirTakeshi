@@ -1,32 +1,31 @@
 # 👋 Olá, eu sou o Aldenir Takeshi!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Java+%7C+JavaScript+%7C+React;Apaixonado+por+tecnologia" alt="Typing SVG" />
-</p>
-
 ### 🚀 Sobre Mim
 
-Sou um desenvolvedor focado em criar soluções eficientes no ecossistema **Full Stack**. Atualmente, exploro o poder do **JavaScript/TypeScript** com **NestJS** e **React**, mantendo a base sólida em **Java**.
+Desenvolvedor Backend Java e Spring Boot, com experiência na construção de APIs REST, conteinerização com Docker e persistência em bancos relacionais. Conhecimentos em testes automatizados, arquitetura de software (SOLID, Clean Code) e fundamentos de nuvem (AWS).
 
 ---
 
-### 🛠️ My Stack
+### 🛠️ Conhecimentos & Tecnologias
 
-**Languages & Core**  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+**Linguagens & Frameworks**  
+<img src="https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 
-**Frontend & Mobile**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+**Bancos de Dados & Migrações**  
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white" />
 
-**Backend & Database**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+**Testes, Qualidade & Arquitetura**  
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" /> <img src="https://img.shields.io/badge/Mockito-78A3A4?style=for-the-badge&logo=mockito&logoColor=white" /> <img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=bookstack&logoColor=white" />
+
+**DevOps, Cloud & Ferramentas**  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 ---
 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AldenirTakeshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AldenirTakeshi&show_icons=true&theme=radical&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldenirTakeshi&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
